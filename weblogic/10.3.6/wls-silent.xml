@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bea-installer> 
+	<input-fields>
+		<data-value name="BEAHOME" value="/u01/oracle/weblogic" />
+		<data-value name="USER_INSTALL_DIR" value="/u01/oracle/weblogic" />
+		<data-value name="COMPONENT_PATHS" value="WebLogic Server/Core Application Server|WebLogic Server/Administration Console|WebLogic Server/Configuration Wizard and Upgrade Framework|WebLogic Server/Web 2.0 HTTP Pub-Sub Server|WebLogic Server/WebLogic JDBC Drivers|WebLogic Server/Third Party JDBC Drivers|WebLogic Server/WebLogic Server Clients|WebLogic Server/WebLogic Web Server Plugins|WebLogic Server/UDDI and Xquery Support|WebLogic Server/Server Examples" />
+		<data-value name="INSTALL_NODE_MANAGER_SERVICE" value="no" />
+		<data-value name="NODEMGR_PORT" value="5559" />
+		<data-value name="INSTALL_SHORTCUT_IN_ALL_USERS_FOLDER" value="no"/>
+		<data-value name="LOCAL_JVMS" value="/usr/java/default"/>
+	</input-fields>
+</bea-installer>
