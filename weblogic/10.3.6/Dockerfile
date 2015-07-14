@@ -40,7 +40,6 @@ MAINTAINER Gilberto Holms <gibaholms85@gmail.com>
 ENV JAVA_RPM jdk-7u79-linux-x64.rpm
 ENV WLS_PKG wls1036_generic.jar
 ENV JAVA_HOME /usr/java/default
-ENV CONFIG_JVM_ARGS -Djava.security.egd=file:/dev/./urandom
 
 # Setup required packages (unzip), filesystem, and oracle user
 # ------------------------------------------------------------
