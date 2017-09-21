@@ -37,7 +37,7 @@ MAINTAINER Gilberto Holms <gibaholms85@gmail.com>
 
 # Environment variables required for this build (do NOT change)
 # -------------------------------------------------------------
-ENV JAVA_RPM jdk-7u79-linux-x64.rpm
+ENV JAVA_RPM jdk-7u80-linux-x64.rpm
 ENV WLS_PKG wls1036_generic.jar
 ENV JAVA_HOME /usr/java/default
 
