@@ -11,7 +11,7 @@ This repository stores Dockerfiles and required files to build Oracle WLS docker
 
    http://www.oracle.com/technetwork/middleware/weblogic/downloads/wls-for-dev-1703574.html
 
-2. Download "Java SE Development Kit 7u80" (`jdk-7u79-linux-x64.rpm` - size: 131.69 MB) from:
+2. Download "Java SE Development Kit 7u80" (`jdk-7u80-linux-x64.rpm` - size: 131.69 MB) from:
 
    http://www.oracle.com/technetwork/java/javase/downloads/java-archive-downloads-javase7-521261.html
 
